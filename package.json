@@ -28,7 +28,10 @@
     "food",
     "recipe-management"
   ],
-  "author": "Mario <hey@mc-mario.dev>",
+  "author": "Dustin Lepi <dustin@leapit.us>",
+  "contributors": [
+    "Mario <hey@mc-mario.dev> (https://github.com/mc-mario)"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
