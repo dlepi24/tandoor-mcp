@@ -2,7 +2,7 @@
 node_modules/
 
 # Build output
-build/
+# Note: build/ is NOT ignored because npx from GitHub doesn't run build steps
 dist/
 
 # Environment variables

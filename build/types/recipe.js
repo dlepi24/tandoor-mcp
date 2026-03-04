@@ -1,0 +1,2 @@
+// Recipe-related types
+export {};

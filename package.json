@@ -32,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mc-mario/tandoor-mcp.git"
+    "url": "https://github.com/dlepi24/tandoor-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/mc-mario/tandoor-mcp/issues"
+    "url": "https://github.com/dlepi24/tandoor-mcp/issues"
   },
-  "homepage": "https://github.com/mc-mario/tandoor-mcp#readme",
+  "homepage": "https://github.com/dlepi24/tandoor-mcp#readme",
   "engines": {
     "node": ">=18.0.0"
   },
